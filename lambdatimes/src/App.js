@@ -14,8 +14,6 @@ const AppDiv = styled.div`
   width: 100%;
   background-color: #f1f1f1;
   color: #333;
-  margin: 0;
-  padding: 0;
 `
 
 const App = () => {
