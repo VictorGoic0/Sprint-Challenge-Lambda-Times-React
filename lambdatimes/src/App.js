@@ -14,6 +14,9 @@ const AppDiv = styled.div`
   width: 100%;
   background-color: #f1f1f1;
   color: #333;
+  * {
+    box-sizing: border-box;
+  }
 `
 
 const App = () => {
