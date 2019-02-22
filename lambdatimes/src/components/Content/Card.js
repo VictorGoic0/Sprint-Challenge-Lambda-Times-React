@@ -12,6 +12,7 @@ const CardDiv = styled.div`
   width: 380px;
   margin-bottom: 16px;
   padding: 24px;
+  border-bottom: 1px solid lightgrey;
 `
 
 const Headline = styled.div`
